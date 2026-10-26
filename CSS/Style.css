@@ -1,0 +1,26 @@
+h1{
+    color: brown;
+}
+
+h3{
+    color: cadetblue;
+}
+
+p{
+    color: blue;
+}
+
+.one{
+
+    color: palevioletred;
+}
+
+#two{
+
+    color: green;
+}
+
+*{
+    
+    color: blueviolet;
+}
